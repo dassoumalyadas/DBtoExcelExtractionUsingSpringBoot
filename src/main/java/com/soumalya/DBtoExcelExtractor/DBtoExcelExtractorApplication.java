@@ -8,7 +8,7 @@ public class DBtoExcelExtractorApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!!");
-		/*SpringApplication.run(DBtoExcelExtractorApplication.class, args);*/
+		SpringApplication.run(DBtoExcelExtractorApplication.class, args);
 	}
 
 }

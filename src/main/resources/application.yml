@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: postgres
+    password: 0000
+    url: jdbc:postgresql://localhost:5432/SpringPractice
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+      show-sql: true
